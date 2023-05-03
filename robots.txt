@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://challenger-79x.pages.dev/sitemap.xml
